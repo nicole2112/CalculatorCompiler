@@ -1,0 +1,12 @@
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\bin\Debug\net6.0\CalculatorCompiler.Core.deps.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\bin\Debug\net6.0\CalculatorCompiler.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\bin\Debug\net6.0\CalculatorCompiler.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\obj\Debug\net6.0\CalculatorCompiler.Core.csproj.AssemblyReference.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\obj\Debug\net6.0\CalculatorCompiler.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\obj\Debug\net6.0\CalculatorCompiler.Core.AssemblyInfoInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\obj\Debug\net6.0\CalculatorCompiler.Core.AssemblyInfo.cs
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\obj\Debug\net6.0\CalculatorCompiler.Core.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\obj\Debug\net6.0\CalculatorCompiler.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\obj\Debug\net6.0\refint\CalculatorCompiler.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\obj\Debug\net6.0\CalculatorCompiler.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Core\obj\Debug\net6.0\ref\CalculatorCompiler.Core.dll

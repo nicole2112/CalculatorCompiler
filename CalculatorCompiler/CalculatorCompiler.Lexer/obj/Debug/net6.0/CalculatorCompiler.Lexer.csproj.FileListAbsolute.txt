@@ -1,0 +1,15 @@
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\obj\Debug\net6.0\CalculatorCompiler.Lexer.csproj.AssemblyReference.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\obj\Debug\net6.0\CalculatorCompiler.Lexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\obj\Debug\net6.0\CalculatorCompiler.Lexer.AssemblyInfoInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\obj\Debug\net6.0\CalculatorCompiler.Lexer.AssemblyInfo.cs
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\obj\Debug\net6.0\CalculatorCompiler.Lexer.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\bin\Debug\net6.0\CalculatorCompiler.Lexer.deps.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\bin\Debug\net6.0\CalculatorCompiler.Lexer.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\bin\Debug\net6.0\CalculatorCompiler.Lexer.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\bin\Debug\net6.0\CalculatorCompiler.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\bin\Debug\net6.0\CalculatorCompiler.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\obj\Debug\net6.0\CalculatorCompiler.Lexer.csproj.CopyComplete
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\obj\Debug\net6.0\CalculatorCompiler.Lexer.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\obj\Debug\net6.0\refint\CalculatorCompiler.Lexer.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\obj\Debug\net6.0\CalculatorCompiler.Lexer.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Lexer\obj\Debug\net6.0\ref\CalculatorCompiler.Lexer.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ucphyFCdFkqWWb3+tD1QX3tDbEY7Cdc4fr3wzN4+Rs5GQAAdfSR7fxIB/ALD/vb5Bi0r2FrJYBIvslN2v0uNpQ==",
+  "dgSpecHash": "1FtznPiR0guLDb+o20WqS6f9EDmY9y4gqpJfGu+ux2fgka36cRGSv+A5p5glXGv5gaK9jfx4YVbOKrQorhQdnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nicole Rodriguez\\Documents\\Compi 1\\ClassProjectSource\\CalculatorCompiler\\CalculatorCompiler.Parser\\CalculatorCompiler.Parser.csproj",
+  "projectFilePath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Parser\\CalculatorCompiler.Parser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

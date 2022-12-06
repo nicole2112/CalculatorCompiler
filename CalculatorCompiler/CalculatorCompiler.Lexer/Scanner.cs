@@ -117,7 +117,11 @@ public class Scanner: IScanner
                     GetNextChar();
                     lexeme.Append(currentChar);
                     return lexeme.ToToken(input, TokenType.AssignationOperator);
-                }      
+                }
+                break;
+            case '\0':
+                lexeme.Append(currentChar);
+                return lexeme.ToToken(input, TokenType.EOF);
          }
         
         throw new ApplicationException(

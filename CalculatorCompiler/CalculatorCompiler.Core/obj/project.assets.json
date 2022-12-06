@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nicole Rodriguez\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Andrea\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicole Rodriguez\\Documents\\Compi 1\\ClassProjectSource\\CalculatorCompiler\\CalculatorCompiler.Core\\CalculatorCompiler.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Core\\CalculatorCompiler.Core.csproj",
       "projectName": "CalculatorCompiler.Core",
-      "projectPath": "C:\\Users\\Nicole Rodriguez\\Documents\\Compi 1\\ClassProjectSource\\CalculatorCompiler\\CalculatorCompiler.Core\\CalculatorCompiler.Core.csproj",
-      "packagesPath": "C:\\Users\\Nicole Rodriguez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicole Rodriguez\\Documents\\Compi 1\\ClassProjectSource\\CalculatorCompiler\\CalculatorCompiler.Core\\obj\\",
+      "projectPath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Core\\CalculatorCompiler.Core.csproj",
+      "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Core\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Nicole Rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -65,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

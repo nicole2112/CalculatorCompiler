@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7tZmLKWOWj4mDuvKsa42H4iw+tbBv8OvoJAxuUcg40k07XXRjPHgaaZyW7nHPu5nW3RygjGf1mXpe9rJZTxTVA==",
+  "dgSpecHash": "KAoV8FYuiylEoDKhWcQ9rck1Dm9F6J7LM6BRLJ24oZfOR0Gz/txhN8UKpgAAoASCTWdgpT0RAgFDfNHQwfBKrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nicole Rodriguez\\Documents\\Compi 1\\ClassProjectSource\\CalculatorCompiler\\CalculatorCompiler.Lexer\\CalculatorCompiler.Lexer.csproj",
+  "projectFilePath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Lexer\\CalculatorCompiler.Lexer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

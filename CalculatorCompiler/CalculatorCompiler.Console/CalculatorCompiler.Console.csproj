@@ -11,4 +11,10 @@
     <ProjectReference Include="..\CalculatorCompiler.Lexer\CalculatorCompiler.Lexer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Code.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

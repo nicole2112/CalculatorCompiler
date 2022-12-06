@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculatorCompiler.Console/1.0.0": {
+        "dependencies": {
+          "CalculatorCompiler.Lexer": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorCompiler.Console.dll": {}
+        }
+      },
+      "CalculatorCompiler.Core/1.0.0": {
+        "runtime": {
+          "CalculatorCompiler.Core.dll": {}
+        }
+      },
+      "CalculatorCompiler.Lexer/1.0.0": {
+        "dependencies": {
+          "CalculatorCompiler.Core": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorCompiler.Lexer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorCompiler.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculatorCompiler.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculatorCompiler.Lexer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
