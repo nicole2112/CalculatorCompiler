@@ -24,6 +24,20 @@
         "runtime": {
           "bin/placeholder/CalculatorCompiler.Lexer.dll": {}
         }
+      },
+      "CalculatorCompiler.Parser/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CalculatorCompiler.Core": "1.0.0",
+          "CalculatorCompiler.Lexer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CalculatorCompiler.Parser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculatorCompiler.Parser.dll": {}
+        }
       }
     }
   },
@@ -37,11 +51,17 @@
       "type": "project",
       "path": "../CalculatorCompiler.Lexer/CalculatorCompiler.Lexer.csproj",
       "msbuildProject": "../CalculatorCompiler.Lexer/CalculatorCompiler.Lexer.csproj"
+    },
+    "CalculatorCompiler.Parser/1.0.0": {
+      "type": "project",
+      "path": "../CalculatorCompiler.Parser/CalculatorCompiler.Parser.csproj",
+      "msbuildProject": "../CalculatorCompiler.Parser/CalculatorCompiler.Parser.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "CalculatorCompiler.Lexer >= 1.0.0"
+      "CalculatorCompiler.Lexer >= 1.0.0",
+      "CalculatorCompiler.Parser >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -73,6 +93,9 @@
           "projectReferences": {
             "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Lexer\\CalculatorCompiler.Lexer.csproj": {
               "projectPath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Lexer\\CalculatorCompiler.Lexer.csproj"
+            },
+            "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Parser\\CalculatorCompiler.Parser.csproj": {
+              "projectPath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Parser\\CalculatorCompiler.Parser.csproj"
             }
           }
         }

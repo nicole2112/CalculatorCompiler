@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CalculatorCompiler.Lexer\CalculatorCompiler.Lexer.csproj" />
+    <ProjectReference Include="..\CalculatorCompiler.Parser\CalculatorCompiler.Parser.csproj" />
   </ItemGroup>
 
   <ItemGroup>

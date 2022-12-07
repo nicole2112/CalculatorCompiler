@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "CalculatorCompiler.Console/1.0.0": {
+      "CalculatorCompiler.Parser/1.0.0": {
         "dependencies": {
-          "CalculatorCompiler.Lexer": "1.0.0",
-          "CalculatorCompiler.Parser": "1.0.0"
+          "CalculatorCompiler.Core": "1.0.0",
+          "CalculatorCompiler.Lexer": "1.0.0"
         },
         "runtime": {
-          "CalculatorCompiler.Console.dll": {}
+          "CalculatorCompiler.Parser.dll": {}
         }
       },
       "CalculatorCompiler.Core/1.0.0": {
@@ -27,20 +27,11 @@
         "runtime": {
           "CalculatorCompiler.Lexer.dll": {}
         }
-      },
-      "CalculatorCompiler.Parser/1.0.0": {
-        "dependencies": {
-          "CalculatorCompiler.Core": "1.0.0",
-          "CalculatorCompiler.Lexer": "1.0.0"
-        },
-        "runtime": {
-          "CalculatorCompiler.Parser.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "CalculatorCompiler.Console/1.0.0": {
+    "CalculatorCompiler.Parser/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -51,11 +42,6 @@
       "sha512": ""
     },
     "CalculatorCompiler.Lexer/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CalculatorCompiler.Parser/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

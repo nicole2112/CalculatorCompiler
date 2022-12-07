@@ -60,26 +60,32 @@ public class Scanner: IScanner
             }
             if (currentChar == 'd')
             {
+                GetNextChar();
                 return lexeme.ToToken(input, TokenType.DateConstant);
             }
             else if (currentChar == 'M')
             {
+                GetNextChar();
                 return lexeme.ToToken(input, TokenType.MonthConstant);
             }
             else if (currentChar == 'Y')
             {
+                GetNextChar();
                 return lexeme.ToToken(input, TokenType.YearConstant);
             }
             else if (currentChar == 'h')
             {
+                GetNextChar();
                 return lexeme.ToToken(input, TokenType.HourConstant);
             }
             else if (currentChar == 'm')
             {
+                GetNextChar();
                 return lexeme.ToToken(input, TokenType.MinuteConstant);
             }
             else if (currentChar == 's')
             {
+                GetNextChar();
                 return lexeme.ToToken(input, TokenType.SecondConstant);
             }
             return lexeme.ToToken(input, TokenType.NumberConstant);

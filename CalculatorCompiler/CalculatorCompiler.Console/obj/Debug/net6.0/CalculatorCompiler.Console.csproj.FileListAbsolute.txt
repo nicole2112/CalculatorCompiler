@@ -19,3 +19,5 @@ C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\Calculat
 C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Console\obj\Debug\net6.0\CalculatorCompiler.Console.pdb
 C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Console\obj\Debug\net6.0\CalculatorCompiler.Console.genruntimeconfig.cache
 C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Console\obj\Debug\net6.0\ref\CalculatorCompiler.Console.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Console\bin\Debug\net6.0\CalculatorCompiler.Parser.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Console\bin\Debug\net6.0\CalculatorCompiler.Parser.pdb

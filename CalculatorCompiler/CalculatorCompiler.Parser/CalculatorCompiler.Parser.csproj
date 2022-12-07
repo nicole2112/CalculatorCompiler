@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CalculatorCompiler.Core\CalculatorCompiler.Core.csproj" />
+    <ProjectReference Include="..\CalculatorCompiler.Lexer\CalculatorCompiler.Lexer.csproj" />
+  </ItemGroup>
+
 </Project>

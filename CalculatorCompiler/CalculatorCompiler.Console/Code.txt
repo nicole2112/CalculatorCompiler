@@ -1,2 +1,2 @@
 ﻿today <= 01/12/2022;
-print(today);
+print(01/12/2022+1d+1Y+1m);
