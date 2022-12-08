@@ -14,7 +14,7 @@ namespace CalculatorCompiler.Core
             Token = token;
         }
 
-        //Changes
+        //Changes in code
         public override dynamic Evaluate()
         {
             var left = this.Left.Evaluate() is DateTime ? (DateTime)this.Left.Evaluate() : default;
