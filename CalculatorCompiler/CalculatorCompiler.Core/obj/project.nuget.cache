@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qRahDh0rIJA5zMEaNlHo7P61jnMUz+xTgsVCKr+xa4CGjVHROrQqe+9YyoM8Xu3iSxNbSUsN1KeskH8Ln0Y+lw==",
+  "dgSpecHash": "4d7mXeTYVUFnsHsOZq8+uPQKLCSEVwdAMB6peRDolsmJq9eL1LzooTZReLsaD/hizblObAK31VSkKPS/hCYxVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Core\\CalculatorCompiler.Core.csproj",
+  "projectFilePath": "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Core/CalculatorCompiler.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,34 @@
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\bin\Debug\net6.0\CalculatorCompiler.Parser.deps.json
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\bin\Debug\net6.0\CalculatorCompiler.Parser.dll
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\bin\Debug\net6.0\CalculatorCompiler.Parser.pdb
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\bin\Debug\net6.0\CalculatorCompiler.Core.dll
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\bin\Debug\net6.0\CalculatorCompiler.Lexer.dll
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\bin\Debug\net6.0\CalculatorCompiler.Core.pdb
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\bin\Debug\net6.0\CalculatorCompiler.Lexer.pdb
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\obj\Debug\net6.0\CalculatorCompiler.Parser.csproj.AssemblyReference.cache
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\obj\Debug\net6.0\CalculatorCompiler.Parser.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\obj\Debug\net6.0\CalculatorCompiler.Parser.AssemblyInfoInputs.cache
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\obj\Debug\net6.0\CalculatorCompiler.Parser.AssemblyInfo.cs
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\obj\Debug\net6.0\CalculatorCompiler.Parser.csproj.CoreCompileInputs.cache
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\obj\Debug\net6.0\CalculatorCompiler.Parser.csproj.CopyComplete
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\obj\Debug\net6.0\CalculatorCompiler.Parser.dll
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\obj\Debug\net6.0\refint\CalculatorCompiler.Parser.dll
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\obj\Debug\net6.0\CalculatorCompiler.Parser.pdb
-C:\Users\Andrea\Documents\UNIVERSIDAD\COMPILADORES I\CalculatorCompiler\CalculatorCompiler\CalculatorCompiler.Parser\obj\Debug\net6.0\ref\CalculatorCompiler.Parser.dll
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Parser.deps.json
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Parser.dll
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Parser.pdb
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Core.dll
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Lexer.dll
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Core.pdb
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Lexer.pdb
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.csproj.AssemblyReference.cache
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.AssemblyInfoInputs.cache
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.AssemblyInfo.cs
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.csproj.CoreCompileInputs.cache
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.csproj.CopyComplete
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.dll
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/refint/CalculatorCompiler.Parser.dll
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.pdb
+C:/Users/Andrea/Documents/UNIVERSIDAD/COMPILADORES I/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/ref/CalculatorCompiler.Parser.dll
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Parser.deps.json
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Parser.dll
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Parser.pdb
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Core.dll
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Lexer.dll
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Core.pdb
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/bin/Debug/net6.0/CalculatorCompiler.Lexer.pdb
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.csproj.AssemblyReference.cache
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.AssemblyInfoInputs.cache
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.AssemblyInfo.cs
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.csproj.CoreCompileInputs.cache
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.csproj.CopyComplete
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.dll
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/refint/CalculatorCompiler.Parser.dll
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/CalculatorCompiler.Parser.pdb
+/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/obj/Debug/net6.0/ref/CalculatorCompiler.Parser.dll

@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Andrea\\.nuget\\packages\\": {}
+    "/Users/afalck/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Core\\CalculatorCompiler.Core.csproj",
+      "projectUniqueName": "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Core/CalculatorCompiler.Core.csproj",
       "projectName": "CalculatorCompiler.Core",
-      "projectPath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Core\\CalculatorCompiler.Core.csproj",
-      "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Core\\obj\\",
+      "projectPath": "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Core/CalculatorCompiler.Core.csproj",
+      "packagesPath": "/Users/afalck/.nuget/packages/",
+      "outputPath": "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/afalck/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

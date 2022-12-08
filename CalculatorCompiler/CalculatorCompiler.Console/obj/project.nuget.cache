@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ETFFCZmf9skIoIfYUzDu8OK+BES0Wi4FStEFjz043MjcvifPi5cq612Js01KWV/JePzNOfAU6WBklaLtbzCIRg==",
+  "dgSpecHash": "K0gbwJl4nJKt4OVEl5inIcm7cnlvXHIwEGtgl1IBN4f86o5SuAWjBO8DeKsqnDQF0SnZHeim16oAFpzyaL39NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Console\\CalculatorCompiler.Console.csproj",
+  "projectFilePath": "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Console/CalculatorCompiler.Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

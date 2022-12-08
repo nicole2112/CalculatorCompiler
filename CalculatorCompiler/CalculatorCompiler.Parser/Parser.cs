@@ -1,6 +1,8 @@
 ﻿using CalculatorCompiler.Core;
 using CalculatorCompiler.Lexer;
 using System.Linq.Expressions;
+using System.Text;
+using Expression = CalculatorCompiler.Core.Expression;
 
 namespace CalculatorCompiler.Parser
 {
@@ -15,10 +17,12 @@ namespace CalculatorCompiler.Parser
             this.Move();
         }
 
-        public void Parse()
+        public Statement Parse()
         {
-            Code();
+            var code = Code();
+            return code;
         }
+
         private void Move()
         {
             this.lookAhead = this.scanner.GetNextToken();
@@ -32,38 +36,44 @@ namespace CalculatorCompiler.Parser
             this.Move();
         }
         
-        private void Code()
+        private Statement Code()
         {
-            Block();
+            var block = Block();
+            return block;
         }
 
-        private void Block()
+        private Statement Block()
         {
             Decls();
-            Stmts();
+            var stmts = Stmts();
+            return stmts;
         }
 
-        private void Stmts()
+        private Statement Stmts()
         {
             if(this.lookAhead.TokenType == TokenType.PrintKeyword)
             {
-                Stmt();
-                Stmts();
+               return new SequenceStatement(Stmt(), Stmts());
             }
+
+            return null; 
+
         }
 
-        private void Stmt()
+        private Statement Stmt()
         {
-            Print_Stmt();
+            var printStmt = Print_Stmt();
+            return printStmt;
         }
 
-        private void Print_Stmt()
+        private Statement Print_Stmt()
         {
             Match(TokenType.PrintKeyword);
             Match(TokenType.OpenParenthesis);
-            Expr();
+            var expr = Expr();
             Match(TokenType.CloseParenthesis);
             Match(TokenType.SemicolonOperator);
+            return new PrintStatement(expr);
         }
 
         private void Decls()
@@ -84,37 +94,43 @@ namespace CalculatorCompiler.Parser
             Match(TokenType.SemicolonOperator);
         }
 
-        private void Expr()
+        private Expression Expr()
         {
-            Factor();
+            var leftExpression = Factor();
             while(this.lookAhead.TokenType == TokenType.PlusOperator ||
                this.lookAhead.TokenType == TokenType.MinusOperator)
             {
+                var token = this.lookAhead;
                 Move();
-                Factor();
+                var rightExpression = Factor();
+                leftExpression = new ArithmeticExpression(leftExpression, rightExpression, token);
             }
+
+            return leftExpression;
         }
 
-        private void Factor()
+        private Expression Factor()
         {
+            var token = this.lookAhead;
+
             switch(this.lookAhead.TokenType)
             {
                 case TokenType.Id:
                 Match(TokenType.Id);
-                break;
-                
+                return new IdExpression(token.Lexeme);
+  
                 case TokenType.NumberConstant:
-                DateFactor();
-                break;
+                return DateFactor();
 
                 default:
-                TimeFactor();
-                break;
+                return TimeFactor();
             }
         }
 
-        private void TimeFactor()
+        private Expression TimeFactor()
         {
+            var token = this.lookAhead;
+
             switch(this.lookAhead.TokenType)
             {
                 case TokenType.DateConstant:
@@ -140,26 +156,47 @@ namespace CalculatorCompiler.Parser
                 default:
                 Match(TokenType.SecondConstant);
                 break;
-
             }
+
+            return new TimeFactorExpression(token);
         }
 
-        private void DateFactor()
+        private Expression DateFactor()
         {
-            Match(TokenType.NumberConstant);
-            Match(TokenType.SlashOperator);
-            Match(TokenType.NumberConstant);
-            Match(TokenType.SlashOperator);
-            Match(TokenType.NumberConstant);
+            var date = new StringBuilder();
+            var token = this.lookAhead;
 
-            if(this.lookAhead.TokenType == TokenType.NumberConstant)
+            Match(TokenType.NumberConstant);
+            date.Append(token.Lexeme);
+            Match(TokenType.SlashOperator);
+            date.Append('/');
+            token = this.lookAhead;
+            Match(TokenType.NumberConstant);
+            date.Append(token.Lexeme);
+            Match(TokenType.SlashOperator);
+            date.Append('/');
+            token = this.lookAhead;
+            Match(TokenType.NumberConstant);
+            date.Append(token.Lexeme);
+
+            if (this.lookAhead.TokenType == TokenType.NumberConstant)
             {
+                token = this.lookAhead;
                 Match(TokenType.NumberConstant);
+                date.Append(token.Lexeme);
                 Match(TokenType.ColonOperator);
+                date.Append(':');
+                token = this.lookAhead;
                 Match(TokenType.NumberConstant);
+                date.Append(token.Lexeme);
                 Match(TokenType.ColonOperator);
+                date.Append(':');
+                token = this.lookAhead;
                 Match(TokenType.NumberConstant);
+                date.Append(token.Lexeme);
             }
+
+            return new DateFactorExpression(date.ToString());
         }
     }
 }

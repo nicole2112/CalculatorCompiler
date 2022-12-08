@@ -65,37 +65,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Andrea\\.nuget\\packages\\": {}
+    "/Users/afalck/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Console\\CalculatorCompiler.Console.csproj",
+      "projectUniqueName": "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Console/CalculatorCompiler.Console.csproj",
       "projectName": "CalculatorCompiler.Console",
-      "projectPath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Console\\CalculatorCompiler.Console.csproj",
-      "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Console\\obj\\",
+      "projectPath": "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Console/CalculatorCompiler.Console.csproj",
+      "packagesPath": "/Users/afalck/.nuget/packages/",
+      "outputPath": "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Console/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/afalck/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Lexer\\CalculatorCompiler.Lexer.csproj": {
-              "projectPath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Lexer\\CalculatorCompiler.Lexer.csproj"
+            "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Lexer/CalculatorCompiler.Lexer.csproj": {
+              "projectPath": "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Lexer/CalculatorCompiler.Lexer.csproj"
             },
-            "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Parser\\CalculatorCompiler.Parser.csproj": {
-              "projectPath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Parser\\CalculatorCompiler.Parser.csproj"
+            "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/CalculatorCompiler.Parser.csproj": {
+              "projectPath": "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Parser/CalculatorCompiler.Parser.csproj"
             }
           }
         }
@@ -125,7 +123,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

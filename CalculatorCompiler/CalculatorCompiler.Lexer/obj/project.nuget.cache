@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KAoV8FYuiylEoDKhWcQ9rck1Dm9F6J7LM6BRLJ24oZfOR0Gz/txhN8UKpgAAoASCTWdgpT0RAgFDfNHQwfBKrA==",
+  "dgSpecHash": "2+iCo/N9irF5xJ+dTjU6cD0Ik5GUDiCJOt5rm0glAigzYdcqcmCIOA8XGKorBG0LfIpkeu38ZXU4TGtfeiF9IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\COMPILADORES I\\CalculatorCompiler\\CalculatorCompiler\\CalculatorCompiler.Lexer\\CalculatorCompiler.Lexer.csproj",
+  "projectFilePath": "/Users/afalck/Desktop/Unitec/Compi1/CalculatorCompiler/CalculatorCompiler/CalculatorCompiler.Lexer/CalculatorCompiler.Lexer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
